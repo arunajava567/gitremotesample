@@ -5,7 +5,7 @@ public class Demo {
 	public void show() {
 		System.out.println("in show");
 		System.out.println("in show");
-		
+		System.out.println("in show");
 	}
 	
 	
